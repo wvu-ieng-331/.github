@@ -1,6 +1,6 @@
 # WVU IENG 331
 
-This organization holds the material for IENG 331 at West Virginia University.
+This organization holds the material for IENG 331 at [West Virginia University](https://www.wvu.edu/).
 
 ## Course Material
 
