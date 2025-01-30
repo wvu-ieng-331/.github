@@ -1,4 +1,4 @@
-# WVU IENG 331!
+# WVU IENG 331
 
 This organization holds the material for IENG 331 at West Virginia University.
 
